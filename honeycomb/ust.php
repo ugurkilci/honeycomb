@@ -1,0 +1,1 @@
+<img src="resimler/logo.png" /><div class="str1" align="center"><br><a href="/honeycomb/"> Anasayfa</a> | <a href="sss">Ne Bu?</a> | <a href="https://ugurkilci.wordpress.com/iletisim/" target="_blank">İletişim</a><br>

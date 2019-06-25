@@ -1,0 +1,6 @@
+User-agent: DeepCrawl
+Disallow: /css/
+Disallow: /resimler/
+Disallow: /ust.php
+Disallow: /alt.php
+Disallow: /u.php
